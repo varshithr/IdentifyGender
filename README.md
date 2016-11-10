@@ -13,4 +13,4 @@ Assumption: The names entered cater to country codes and the names available in 
 
 # How to run?
 
-The entire code is written in Python3. Just run the IdentifyGender.py file from any of the GIT folders to test the code.
+The entire code is written in Python3. Just run the IdentifyGender.py file from any one of the two folders in IdentifyGender repo to test the code.

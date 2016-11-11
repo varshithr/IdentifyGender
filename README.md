@@ -14,3 +14,4 @@ Assumption: The names entered cater to country codes and the names available in 
 # How to run?
 
 The entire code is written in Python3, So any Python 3.x release would run the code without any hiccups. Now run the identify_gender.py file from each one of the two folders in IdentifyGender folder to test the code.
+You can also find the same online [here](https://github.com/varshithr/IdentifyGender)

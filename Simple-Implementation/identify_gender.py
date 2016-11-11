@@ -12,7 +12,7 @@ while True:
     else:
         break
 
-if name[-1] in ['a','e','i']:
+if name[-1] in ['a','e','i', 'A', 'E', 'I']:
     print('female')
 else:
     print('male')

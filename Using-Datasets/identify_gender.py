@@ -20,7 +20,7 @@ while True:
         print('Entered country code not valid')
 
 while True:
-    name = input('Enter name :')
+    name = input('Enter first name :')
     if name.find(' ') != -1:
         print('Entered name not valid, Enter first name only')       
     else:
